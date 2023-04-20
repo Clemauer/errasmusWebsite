@@ -1,6 +1,9 @@
 .backgroundmenu{
-    background-color: red;
+    background-color: grey;
     padding-bottom: px;
+}
+.itmesaligncenter {
+    align-items: center;
 }
 .textcolor{
     color: red;
@@ -129,9 +132,10 @@ button-change {
     Ⓒ10px;
 }
 
-clemens-Test {
-    padding: 3px;
+.nav-grey {
+    color: grey;
 }
+
 
 .mainHeader {
     text-width: 15;
