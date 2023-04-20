@@ -1,0 +1,130 @@
+.backgroundmenu{
+    background-color: red;
+    padding-bottom: px;
+}
+.textcolor{
+    color: red;
+}
+
+.col-nav {
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.fullwidth {
+    width:100%;
+}
+.textalignleft {
+    text-align: left;
+}
+.textalignright {
+    text-align: right;
+}
+.floatright {
+    float:right;
+}
+.floatleft{
+    float:left;
+}
+footer {
+    bottom: 0px;
+    text-align: center;
+    color:red;
+
+}
+.floatmiddle {
+    align: middle;
+}
+
+.col-12footer {
+    width: 100%;
+}
+.padding-right0 {
+    padding-right: -30px;
+    margin-right: -30px;
+}
+.hover-zoom a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    background-color: #333;
+}
+.hover-img {
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.hover-jobs:hover {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0.5)";
+    filter: alpha(opacity=0.5);
+
+}
+.pad{
+    padding-top: 2%;
+}
+.col-img{
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.backgroundimage{
+    background-image: url("../Pictures/5e415d8e91a65cf78ba5d0dc2a35f36c.jpg");
+    background-size: cover;
+}
+.image600{
+    width:100%;
+    max-width:100%;
+}
+.padding-bottom{
+    padding-bottom: 2%;
+}
+a,  bg-white {
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+}
+.largefont-size{
+    font-size: xx-large;
+}
+container2pictures{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+container1pictures{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.automargin{
+    margin-right: auto;
+    margin-left: auto;
+}
+.bluetext {
+    color: blue;
+}
+.padding-left{
+    padding-left: 2%;
+}
+.padding-right{
+    padding-right: 2%
+}
+div-change {
+    display: flex;
+    justify-content: center;
+}
+button-change {
+    padding: 10px;
+    Ⓒ10px;
+}
