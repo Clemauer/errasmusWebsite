@@ -18,25 +18,12 @@
 
 </head>
 <body>
-    <nav class="navbar navbar-expand-md navbar-dark backgroundmenu">
-        <a class="navbar-brand" href="Project.html">Home</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="Pictures.html"> Pictures <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " href="Impressum.html">Impressum</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-
+    <div id="nav-placeholder">
+    </div>
+        <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+        <script>
+            $('#nav-placeholder').load('nav.html');
+        </script>
     <h1 class="mainHeader"> Erasmus Projekt 2023 </h1>
     <br>
     <p1 class="text-center">Das ERASMUS-Programm ist ein Förderprogramm der Europäischen Union, bei dem vor allem die
