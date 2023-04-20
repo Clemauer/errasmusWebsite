@@ -132,3 +132,10 @@ button-change {
 clemens-Test {
     padding: 3px;
 }
+
+.mainHeader {
+    text-width: 15;
+    font-family: Arial;
+    font-style: initial;
+    text-align: center;
+}
