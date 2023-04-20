@@ -1,0 +1,14 @@
+body {
+  padding-top: 0rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.card-cat{
+  width: 18rem;
+}
+.bg-violett {
+  background-color: violet !important;
+}
+
