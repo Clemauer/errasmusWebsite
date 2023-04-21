@@ -145,3 +145,6 @@ button-change {
 * {
     font-family: Arial;
 }
+.padding-top {
+    padding-top: 40px;
+}
