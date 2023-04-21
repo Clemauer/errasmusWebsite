@@ -3,7 +3,7 @@
     padding-bottom: px;
 }
 .itmesaligncenter {
-    float: right;
+    align-items: center;
 }
 .textcolor{
     color: red;
@@ -138,9 +138,13 @@ button-change {
 
 
 .mainHeader {
-    text-width: 15;
-    font-family: Arial;
     font-style: initial;
     text-align: center;
     padding-top: 50px;
+}
+* {
+    font-family: Arial;
+}
+.padding-top {
+    padding-top: 40px;
 }
