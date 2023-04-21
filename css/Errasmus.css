@@ -3,7 +3,7 @@
     padding-bottom: px;
 }
 .itmesaligncenter {
-    align-items: center;
+    float: right;
 }
 .textcolor{
     color: red;
