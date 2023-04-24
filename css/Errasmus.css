@@ -1,7 +1,4 @@
-.backgroundmenu{
-    background-color: grey;
-    padding-bottom: px;
-}
+
 .itmesaligncenter {
     align-items: center;
 }
@@ -77,10 +74,7 @@ footer {
     flex: 0 0 100%;
     max-width: 100%;
 }
-.backgroundimage{
-    background-image: url("../Pictures/5e415d8e91a65cf78ba5d0dc2a35f36c.jpg");
-    background-size: cover;
-}
+
 .image600{
     width:100%;
     max-width:100%;
@@ -127,10 +121,7 @@ div-change {
     display: flex;
     justify-content: center;
 }
-button-change {
-    padding: 10px;
-    Ⓒ10px;
-}
+
 
 .nav-grey {
     color: grey;
@@ -142,9 +133,31 @@ button-change {
     text-align: center;
     padding-top: 50px;
 }
+
 * {
     font-family: Arial;
 }
+
 .padding-top {
     padding-top: 40px;
 }
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+.cup {
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+video {
+    width: 100%;
+    height: 340px;
+    max-height: 340px;
+    padding-top: 50px;
+}
+
+
+
