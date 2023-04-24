@@ -250,6 +250,11 @@ video {
 .padding-left {
     padding-left: 20%;
 }
+.pic {
+    align-content: center;
+    height: 80%;
+    width: 70%;
+}
 
 
 
