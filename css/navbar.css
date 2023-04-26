@@ -110,3 +110,10 @@ h1{
     max-height: 100px;
     max-width: 100px;
 }
+.active{
+    background-color: var(--primary);
+}
+#nav_bar .active {
+    color:            #F8F8F8;
+    background-color: #4f81bd;
+}
